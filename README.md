@@ -1,13 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=Alexandr-Kokorin&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Alexandr-Kokorin&show_icons=true&count_private=true"/></a>
 </p>
 
-## Languages and tools
-
-### Technology stack
+## Technology stack
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
